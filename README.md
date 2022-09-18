@@ -14,6 +14,9 @@
 * 【day9】 讓電腦了解文字資料 & 使用Pytorch做IMDB影評分析   
 * 【day10】人工智慧、機器學習、深度學習究竟差異在哪裡?   
 * 【day11】集成式學習 & 使用xgboost過濾垃圾郵件  
+* 【day12】預訓練模型訓練 & 應用- 使用OpenCV製作人臉辨識點名系統 (上)  
+* 【day13】預訓練模型訓練 & 應用- 使用OpenCV製作人臉辨識點名系統 (下)  
+*  day14】預測Hololive七期生的樣貌-生成式對抗網路(Generative Adversarial Network)(上)  
 
 ## 課程網址
 https://ithelp.ithome.com.tw/users/20152236/ironman/5607

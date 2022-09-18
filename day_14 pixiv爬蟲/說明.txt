@@ -1,0 +1,1 @@
+cookie的方式需要定時更換cookie，所以改用selenium.py得到網站資料url後使用requests下載
