@@ -1,4 +1,4 @@
-﻿	# 新手也能懂得AI-深入淺出的AI課程  
+﻿# 新手也能懂得AI-深入淺出的AI課程  
 這篇文章會告訴你如何在從安裝python到學會AI的技術，一共30天的課程  
 ## 文章簡介ˊ
 人工智慧技術因硬體進步的速度越來越快，使技術有了重大的變革，在日常生活中也開始看到人工智慧融入我們的生活，像是車牌辨識、垃圾訊息判別、與前幾年做火熱的alphago都是屬於人工智慧的一環，在這30天內我會將以實作的方式講解理論，使讀者能夠更容易的理解該如何使用所學習到的知識，藉由這種方式讓讀者擁有理論、實作能力與調整參數的能力。
@@ -16,7 +16,13 @@
 * 【day11】集成式學習 & 使用xgboost過濾垃圾郵件  
 * 【day12】預訓練模型訓練 & 應用- 使用OpenCV製作人臉辨識點名系統 (上)  
 * 【day13】預訓練模型訓練 & 應用- 使用OpenCV製作人臉辨識點名系統 (下)  
-*  day14】預測Hololive七期生的樣貌-生成式對抗網路(Generative Adversarial Network)(上)  
-
+* 【day14】預測Hololive七期生的樣貌-生成式對抗網路(Generative Adversarial Network)(上)  
+* 【day15】預測Hololive七期生的樣貌-生成式對抗網路(Generative Adversarial Network)(下)
+* 【day16】NLP的首選模型Transformer介紹
+* 【day17】假消息辨識-BERT(Bidirectional Encoder Representations from Transformers)(上)
+* 【day18】假消息辨識-BERT(Bidirectional Encoder Representations from Transformers)(下)
+* 【day19】找到文章的重點-T5( Text-To-Text Transfer Transformer)(上)
+* 【day20】找到文章的重點-T5( Text-To-Text Transfer Transformer)(下)
+* 【day21】分群?分類?傻傻分不清楚-分群演算法介紹
 ## 課程網址
 https://ithelp.ithome.com.tw/users/20152236/ironman/5607

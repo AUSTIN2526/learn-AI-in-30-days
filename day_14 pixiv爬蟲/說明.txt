@@ -1,1 +1,1 @@
-cookie的方式需要定時更換cookie，所以改用selenium.py得到網站資料url後使用requests下載
+教學中cookie登入的方式，需要定時更換cookie，故改用selenium.py得到網站資料url後使用requests下載
