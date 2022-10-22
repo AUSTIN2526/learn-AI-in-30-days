@@ -24,5 +24,14 @@
 * 【day19】找到文章的重點-T5( Text-To-Text Transfer Transformer)(上)
 * 【day20】找到文章的重點-T5( Text-To-Text Transfer Transformer)(下)
 * 【day21】分群?分類?傻傻分不清楚-分群演算法介紹
+* 【day22】對Google評論自動分群-HDBSCAN與Sentence-BERT(上)
+* 【day23】對Google評論自動分群-HDBSCAN與Sentence-BERT(下)
+* 【day24】加快程式的運算速度-學習常見的降維演算法
+* 【day25】手刻最簡單的神經網路-單層感知器（Single Layer Perceptron）
+* 【day26】手刻神經網路來解決XOR問題-多層感知器 (Multilayer perceptron) (上)
+* 【day27】手刻神經網路來解決XOR問題-多層感知器 (Multilayer perceptron) (下)
+* 【day28】不要再用準確率(Accuracy)評估分類模型了!-混淆矩陣(Confusion Matrix)與評估指標
+* 【day29】蒐集資料與訓練模型時會發生的常見問題 & 解決方式
+* 【day30】路途還很遙遠只有良好的基礎才能走向更遠的路-30天的技術總結與心得
 ## 課程網址
 https://ithelp.ithome.com.tw/users/20152236/ironman/5607
