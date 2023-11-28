@@ -1,5 +1,12 @@
 ﻿# 新手也能懂得AI-深入淺出的AI課程  
 這篇文章會告訴你如何在從安裝python到學會AI的技術，一共30天的課程  
+## 書籍宣傳
+目前該專案已經專業編輯校稿，並重新編排改寫為書籍有興趣的人歡迎選購
+<a href="https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw">
+  <img src="https://cf-assets2.tenlong.com.tw/products/images/000/194/264/original/9786263336025.jpg" height="30%" width="30%" alt="書籍封面">
+</a>
+<p>購買連結：<a href="https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw">前往購買</a></p>
+
 ## 文章簡介ˊ
 人工智慧技術因硬體進步的速度越來越快，使技術有了重大的變革，在日常生活中也開始看到人工智慧融入我們的生活，像是車牌辨識、垃圾訊息判別、與前幾年做火熱的alphago都是屬於人工智慧的一環，在這30天內我會將以實作的方式講解理論，使讀者能夠更容易的理解該如何使用所學習到的知識，藉由這種方式讓讀者擁有理論、實作能力與調整參數的能力。
 ## 課程內容
