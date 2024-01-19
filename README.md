@@ -2,10 +2,12 @@
 這篇文章會告訴你如何在從安裝python到學會AI的技術，一共30天的課程  
 ## 書籍宣傳
 * 該文章已被改寫成書籍**ChatGPT X Keras X PyTorch 全方位應用實踐指南：從零開始的 AI 程式設計養成之路**，有興趣的人歡迎選購
-<img src="https://cf-assets2.tenlong.com.tw/products/images/000/194/264/original/9786263336025.jpg" height="30%" width="30%" alt="書籍封面">
-<p>購買連結：<a href="https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw">前往購買</a></p>
+<a href="https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw">
+  <img src="https://cf-assets2.tenlong.com.tw/products/images/000/194/264/original/9786263336025.jpg" height="30%" width="30%" alt="書籍封面">
+</a>
+<p>購買連結：<a href="https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw">前往購買</a>(只有初版是軟精裝要買要快)</p>
 
-## 文章簡介ˊ
+## 文章簡介
 人工智慧技術因硬體進步的速度越來越快，使技術有了重大的變革，在日常生活中也開始看到人工智慧融入我們的生活，像是車牌辨識、垃圾訊息判別、與前幾年做火熱的alphago都是屬於人工智慧的一環，在這30天內我會將以實作的方式講解理論，使讀者能夠更容易的理解該如何使用所學習到的知識，藉由這種方式讓讀者擁有理論、實作能力與調整參數的能力。
 ## 課程內容
 * 【day1】python&函式庫 安裝與介紹  
@@ -38,5 +40,5 @@
 * 【day28】不要再用準確率(Accuracy)評估分類模型了!-混淆矩陣(Confusion Matrix)與評估指標
 * 【day29】蒐集資料與訓練模型時會發生的常見問題 & 解決方式
 * 【day30】路途還很遙遠只有良好的基礎才能走向更遠的路-30天的技術總結與心得
-## 課程網址
+## 教學網址
 https://ithelp.ithome.com.tw/users/20152236/ironman/5607
