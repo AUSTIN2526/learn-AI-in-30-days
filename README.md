@@ -1,7 +1,7 @@
 ﻿# 新手也能懂得AI-深入淺出的AI課程  
 這篇文章會告訴你如何在從安裝python到學會AI的技術，一共30天的課程  
 ## 書籍宣傳
-* 該文章已被改寫成書籍**ChatGPT X Keras X PyTorch 全方位應用實踐指南：從零開始的 AI 程式設計養成之路**，有興趣的人歡迎選購
+* 該文章已被改寫成書籍『**ChatGPT X Keras X PyTorch 全方位應用實踐指南：從零開始的 AI 程式設計養成之路**』，有興趣的人歡迎選購
 <a href="https://www.tenlong.com.tw/products/9786263336025?list_name=r-zh_tw">
   <img src="https://cf-assets2.tenlong.com.tw/products/images/000/194/264/original/9786263336025.jpg" height="30%" width="30%" alt="書籍封面">
 </a>
